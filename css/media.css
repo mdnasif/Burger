@@ -1,0 +1,26 @@
+@media (min-width: 1221px) and (max-width: 1440px) {
+    .burger-logo {
+        
+        left: -15%;
+        width: 120%;
+    }
+    .round-text {
+        
+        left: 45px;
+        bottom: 36px;
+    }
+    .price-only .round-img {
+        bottom: 18px;
+        left: 30px;
+    }
+    .f-sec {
+        margin-top: 105px;
+    }
+    .social-side li i {
+        height: 31px;
+        width: 35px;
+    }
+  }
+  @media (min-width: 1025px) and (max-width: 1220px) {
+    
+  }
